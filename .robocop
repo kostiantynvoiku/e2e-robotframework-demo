@@ -1,0 +1,6 @@
+--exclude missing-doc-keyword
+--exclude underscore-in-keyword-name
+--exclude too-long-keyword
+--exclude too-long-test-case
+--exclude file-too-long
+--exclude too-many-calls-in-test-case

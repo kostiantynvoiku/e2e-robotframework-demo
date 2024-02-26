@@ -1,0 +1,10 @@
+.idea
+geckodriver.log
+[rR]esults
+venv1
+.history
+output
+Tests/dummy.robot
+.draft*
+.pabotsuitenames
+**/__pycache__

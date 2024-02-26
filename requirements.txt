@@ -1,0 +1,12 @@
+mimesis==4.1.3
+selenium
+requests
+urllib3
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-jsonschemalibrary
+robotframework-pabot
+IMAPClient
+cryptography
+pycryptodome
